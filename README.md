@@ -217,6 +217,11 @@ Pre-defined service types include:
 - Filter Replacement
 - Other
 
+# 👨‍💻 Authors
+- ***ABDUL SABOOR***
+  ---
+  ```
+
 ## License
 
 This project is open source and available for personal and commercial use.
